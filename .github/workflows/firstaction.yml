@@ -15,6 +15,5 @@ jobs:
         working-directory: "007 02-Starting-Project/02 Starting Project"
       - name: Run tests
         run: npm test
-  
-        
+        working-directory: "007 02-Starting-Project/02 Starting Project"        
       
